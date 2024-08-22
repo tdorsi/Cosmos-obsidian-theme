@@ -1,7 +1,7 @@
 {
-	"name": "Sample Theme",
+	"name": "Commos Theme",
 	"version": "1.0.0",
 	"minAppVersion": "1.0.0",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md"
+	"author": "Thomas DOrsi",
+	"authorUrl": "https://github.com/tdorsi/Cosmos-obsidian-theme"
 }
